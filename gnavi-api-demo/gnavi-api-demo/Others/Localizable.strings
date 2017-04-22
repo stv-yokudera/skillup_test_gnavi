@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  gnavi-api-demo
+
+  Created by OkuderaYuki on 2017/04/22.
+  Copyright © 2017年 YukiOkudera. All rights reserved.
+*/
+
+// MARK: - AreaSelectViewController
+"AreaSelectViewControllerTitle" = "エリア選択";
+
+// MARK: - RestaurantListViewController.swift
+"NoData" = "レストランがありません。";
+"Offline" = "ネットワーク環境の良い環境で再度お試しください。";
